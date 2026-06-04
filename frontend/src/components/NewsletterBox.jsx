@@ -14,7 +14,7 @@ const NewsLetterBox = () => {
           SUBSCRIBE
         </button>
       </form>
-    </div> 
+    </div>
   );
 };
 
