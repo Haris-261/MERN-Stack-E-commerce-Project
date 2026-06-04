@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+  /* active class keyword is present when the link is active */
+  background-color: #ffebf5;
+  border-color: #c586a5;
+}
