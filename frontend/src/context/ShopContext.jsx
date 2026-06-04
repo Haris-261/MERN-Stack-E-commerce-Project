@@ -135,7 +135,7 @@ const ShopContextProvider = (props) => {
       if (data.success) {
         setProducts(data.products);
       } else {
-        toast.error("Failed to fetch products");
+        toast.error(data.message);
       }
     } catch (error) {
       console.error("Error fetching products:", error);

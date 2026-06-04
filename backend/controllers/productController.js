@@ -60,9 +60,9 @@ const addProduct = async (req, res) => {
 const listProducts = async (req, res) => {
   try {
     const products = await productModel.find();
-    res.status(200).json({ success: true, message: "Products retrieved successfully", products });
+    res.json({ success: true, message: "Products retrieved successfully", products });
   } catch (error) {
-    res.status(500).json({ success: false, message: "Error retrieving products", error: error.message });
+    res.json({ success: false, message:error.message });
   }
 };
 
