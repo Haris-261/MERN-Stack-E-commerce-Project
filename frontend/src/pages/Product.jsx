@@ -89,8 +89,8 @@ const Product = ({}) => {
         </div>
 
         <div className="flex flex-col gap-4 border px-6 py-6 text-sm text-gray-500 dark:text-white">
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum exercitationem, quis perferendis nam vitae in consequatur odit officia sit libero. Non esse mollitia, quos deserunt quas dolore culpa dolor nostrum?</p>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, eius aut delectus, ratione tempora quam veniam ab sed sapiente minus eligendi consequuntur quisquam similique aspernatur deleniti iste, ducimus quibusdam placeat. Quod eveniet vel voluptas nulla non laboriosam porro error eius assumenda distinctio magnam, rerum labore aut odit. Exercitationem nam pariatur eligendi eius.</p>
+          <p>Designed for everyday comfort and effortless style, this item is made with quality materials and careful attention to fit and finish. Please select your preferred size before adding it to your cart.</p>
+          <p>Product colors may vary slightly depending on your screen settings. Follow the care instructions on the label to keep your purchase looking its best, and enjoy easy returns or exchanges within 30 days.</p>
         </div>
       </div>
 

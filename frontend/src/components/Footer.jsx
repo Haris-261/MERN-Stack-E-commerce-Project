@@ -8,7 +8,7 @@ const Footer = () => {
             <div className="flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10 mt-40 text-sm">
                 <div>
                     <img className="w-32 mb-5" src={assets.logo} alt="image" />
-                    <p className="w-full md:w-2/3 text-gray-600">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos cum quisquam quibusdam vitae. Facere saepe deserunt, ratione</p>
+                    <p className="w-full md:w-2/3 text-gray-600">Discover timeless fashion, quality essentials, and the latest styles—all selected to make everyday shopping simple and enjoyable.</p>
                 </div>
                 <div>
                     <p className="text-xl font-medium mb-5">COMPANY</p>
@@ -23,15 +23,15 @@ const Footer = () => {
                 <div>
                     <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
                     <ul className="flex flex-col gap-1 text-gray-600">
-                        <li>+923279771296</li>
-                        <li>haris200408@gmail.com</li>
-                        <li>Gujranwala, Punjab, Pakistan</li>
+                        <li>+1 (202) 555-0147</li>
+                        <li>Mark@gmail.com</li>
+                        <li>123 Market Street, New York, NY 10001, USA</li>
                     </ul>
                 </div>
             </div>
             <div>
                 <hr />
-                <p className="py-5 text-sm text-center m-auto">© 2026 Haris-shoppingforever.vercel.app - All rights reserved.</p>
+                <p className="py-5 text-sm text-center m-auto">© 2026 Forever. All rights reserved.</p>
             </div>
         </div>
     );

@@ -15,13 +15,13 @@ const Contact = () => {
         <div className="flex flex-col justify-center items-start gap-6">
           <p className="font-semibold text-xl text-gray-600">Our Store</p>
           <p className="text-gray-500 ">
-            Street 11/12, Gobind Garh,
+            123 Market Street,
             <br />
-            Islamia College Road, Gujranwala
+            New York, NY 10001, USA
           </p>
           <p className="text-gray-500">
-            Phone: 03279771296 <br />
-            Email: Haris200408@gmail.com
+            Phone: +1 (202) 555-0147 <br />
+            Email: Mark@gmail.com
           </p>{" "}
           <p className="text-gray-600 font-semibold text-xl">Careers at Forever</p>
           <p className="text-gray-500">Learn more about our teams and job openings.</p>
